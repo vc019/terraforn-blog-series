@@ -6,7 +6,7 @@ variable "cw_instance_type" {
 
 variable "cw_ingress_cidr_block" {
   type = list
-  default = ["31.52.168.174/32"]
+  default = ["XX.XX.XX.XX/32"]
   description = "List of IP ranges for incoming traffic"
 }
 

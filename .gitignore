@@ -1,0 +1,5 @@
+*/.terraform
+.idea/
+*/ssh-keys
+*/terraform.tfstate
+*/terraform.tfstate.backup
